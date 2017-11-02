@@ -19,7 +19,7 @@ namespace Market
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("Hello");
         }
 
         private void MainForm_Load(object sender, EventArgs e)
